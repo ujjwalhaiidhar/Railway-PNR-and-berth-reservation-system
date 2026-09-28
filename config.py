@@ -1,0 +1,5 @@
+DATA_FILE = "tickets.txt"
+
+MAX_CONFIRMED = 4
+MAX_RAC = 2
+MAX_WAITLIST = 2
