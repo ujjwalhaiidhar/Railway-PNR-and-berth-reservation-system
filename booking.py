@@ -1,6 +1,4 @@
 # booking.py
-# Core booking engine
-
 import random
 from config import MAX_CONFIRMED, MAX_RAC, MAX_WAITLIST
 from storage import load_tickets, save_tickets
